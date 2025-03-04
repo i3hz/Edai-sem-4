@@ -6,7 +6,7 @@ import imutils
 import time
 import dlib
 import cv2
-from x import activate_buzzer
+#from x import activate_buzzer
 # Some supporting functions for facial processing
 
 def get_max_area_rect(rects):
